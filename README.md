@@ -7,3 +7,6 @@ The core functionalities of this language processor include:
 Lexical Analysis (Tokenization): Breaking the input source code into meaningful symbols or tokens.
 Syntactic Analysis (Parsing): Checking the token stream against the defined grammar rules.
 Semantic Analysis: Ensuring the logical correctness of the parsed code.
+
+## Requirements
+Java 8 or later.
